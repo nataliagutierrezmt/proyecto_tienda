@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistenceUnitSettings">
+    <persistence-units>
+      <persistence-unit name="tienda">
+        <packages>
+          <package value="com.reto3.proyecto" />
+        </packages>
+      </persistence-unit>
+      <persistence-unit name="tienda_">
+        <packages>
+          <package value="com.reto3.proyecto" />
+        </packages>
+      </persistence-unit>
+    </persistence-units>
+  </component>
+</project>
